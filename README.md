@@ -12,19 +12,15 @@ Interactive Valentine template built with pure HTML, CSS & JS.
 - Music integration
 - Smooth UI animations
 
-## 🚀 Live Demo
-
-👉 https://hryhoriy007.github.io/valentine-mini-site/
-
 ## 📦 How to use
 
 1. Download ZIP
 2. Open in VS Code
 3. Replace:
-   - Images
-   - Music file
-   - Love date
-   - Letter text
+- Images
+- Music file
+- Love date
+- Letter text
 4. Deploy or send to your partner 💞
 
 ## 🛠 Tech Stack
@@ -32,7 +28,5 @@ Interactive Valentine template built with pure HTML, CSS & JS.
 - HTML5
 - CSS (Glass UI + animations)
 - Vanilla JavaScript
-
----
 
 Made with ❤️
